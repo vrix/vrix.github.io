@@ -1,0 +1,20 @@
+{
+    "updateInfo":{
+        "appName": "eazylife",
+        "appDescription": "eazylife 是个方便的工具",
+        "packageName": "cn.eazylife.app",
+        "versionCode": "2",
+        "versionName": "1.1",
+        "forceUpdate": false,
+        "autoUpdate": false,
+        "apkUrl": "http://vrix.github.io/update/update.apk",
+        "updateTips": {
+            "default": "update tips",
+            "en": "update tips",
+            "zh": "升级提示\n1.增加TAB界面\n2.增加自升级\n",
+            "zh_CN": "升级提示",
+            "zh_TW": "升級提示",
+            " zh_HK": "升级提示"
+        }
+    }
+}
