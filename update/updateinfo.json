@@ -3,15 +3,15 @@
         "appName": "eazylife",
         "appDescription": "eazylife 是个方便的工具",
         "packageName": "cn.eazylife.app",
-        "versionCode": "4",
-        "versionName": "1.001.4",
+        "versionCode": "5",
+        "versionName": "1.001.05",
         "forceUpdate": false,
         "autoUpdate": false,
         "apkUrl": "http://vrix.github.io/update/update.apk",
         "updateTips": {
             "default": "update tips",
             "en": "update tips",
-            "zh": "升级提示\n1.增加登录界面\n2.增加会员中心界面\n3.打开软件检测升级的时候不提示最新版本和升级失败信息\n",
+            "zh": "升级提示\n1.点击版本信息，增加反选效果\n2.调整用户中心显示布局\n",
             "zh_CN": "升级提示",
             "zh_TW": "升級提示",
             " zh_HK": "升级提示"
