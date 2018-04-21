@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>31</versionCode>
-    <versionName>1.0.91</versionName>
+    <versionCode>32</versionCode>
+    <versionName>1.0.92</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 </updateInfo>
