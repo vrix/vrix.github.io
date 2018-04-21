@@ -12,7 +12,7 @@
 	</infos>
 	<files>
 		<file>yuanmi.exe</file>         
-	<file>
+	<files>
 	<api>
 		<tip>http://x.x.x/v1</tip>
 	</api>
