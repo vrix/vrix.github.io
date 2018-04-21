@@ -1,8 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>33</versionCode>
-    <versionName>1.0.93</versionName>
+    <versionCode>34</versionCode>
+    <versionName>1.0.94</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
+    <infos>        
+        <info>1.访问知识分享平台增加超时</info>
+        <info>2.退出程序是，清除掉打开的任务Monitor.finish()</info>
+        <info>3.更换图标</info>
+    </infos>
+    <files>
+       <file>
+         <filename>yuanmi.exe</filename>         
+       </file>
+    <file>
+    <api>
+       <tip>http://x.x.x/v1</tip>
+    </api>
 </updateInfo>
