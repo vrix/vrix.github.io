@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>36</versionCode>
-    <versionName>1.0.96</versionName>
+    <versionCode>38</versionCode>
+    <versionName>1.0.98</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 	<infos> 
+	    <info>#V1.0.98</info>
+		<info>修改提测记录统计界面崩溃的BUG</info>
+		<info>增加OTA后台一键写更新说明功能</info>
+		<info>更新记录按照创建时间排序</info>		
 	    <info>#V1.0.96</info>
 		<info>1.增加自动提测功能</info>
 		<info>2.增加提测日志</info>
