@@ -2,14 +2,17 @@
 <updateInfo>
     <appName>猿蜜</appName>
     <versionCode>38</versionCode>
-    <versionName>1.0.98</versionName>
+    <versionName>1.1.0</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 	<infos> 
+	    <info>#V1.1.0</info>
+		<info>1.支持任意多个项目的提测配置</info>
+		<info>2.支持从列表里选择项目进行提测</info>		
 	    <info>#V1.0.98</info>
-		<info>修改提测记录统计界面崩溃的BUG</info>
-		<info>增加OTA后台一键写更新说明功能</info>
-		<info>更新记录按照创建时间排序</info>		
+		<info>1.修改提测记录统计界面崩溃的BUG</info>
+		<info>2.增加OTA后台一键写更新说明功能</info>
+		<info>3.更新记录按照创建时间排序</info>		
 	    <info>#V1.0.96</info>
 		<info>1.增加自动提测功能</info>
 		<info>2.增加提测日志</info>
