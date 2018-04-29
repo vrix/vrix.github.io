@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>40</versionCode>
-    <versionName>1.1.0</versionName>
+    <versionCode>42</versionCode>
+    <versionName>1.1.2</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 	<infos> 
+		<info>#V1.1.2</info>
+		<info>1.修改镜像地址校验条件</info>		
+		<info>2.完善配置修改界面的逻辑</info>
 	    <info>#V1.1.0</info>
 		<info>1.支持任意多个项目的提测配置</info>
 		<info>2.支持从列表里选择项目进行提测</info>		
