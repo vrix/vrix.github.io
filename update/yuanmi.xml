@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>43</versionCode>
-    <versionName>1.1.3</versionName>
+    <versionCode>45</versionCode>
+    <versionName>1.1.5</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 	<infos> 
-		<info>#V1.1.3</info>
-		<info>1.修改OTA后台未找到指定时间戳的升级包时的逻辑错误</info>			
+	    
+		<info>#V1.1.5</info>
+		<info>1.延时支持配置,市场反馈测试员支持配置</info>
+		<info>2.修改OTA后台未找到指定时间戳的升级包时的逻辑错误</info>			
+		<info>3.重构提测功能，优化稳定性</info>
 		<info>#V1.1.2</info>
 		<info>1.修改镜像地址校验条件</info>		
 		<info>2.完善配置修改界面的逻辑</info>
