@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>47</versionCode>
-    <versionName>1.1.6</versionName>
+    <versionCode>48</versionCode>
+    <versionName>1.1.7</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 	<infos> 
-	    <info>#V1.1.6</info>
+	    <info>#V1.1.7</info>
 		<info>1.配置信息该用json</info>
 		<info>2.界面该用列表，支持无限项目数量</info>
 		<info>3.拟制中的单可以复用，但别人拟制中的单要过滤掉</info>
+		<info>4.新版本提测记录可以从同一分支旧版本的最后一次提测开始获取</info>
 		<info>#V1.1.5</info>
 		<info>1.延时支持配置,市场反馈测试员支持配置</info>
 		<info>2.修改OTA后台未找到指定时间戳的升级包时的逻辑错误</info>			
