@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>56</versionCode>
-    <versionName>1.1.12</versionName>
+    <versionCode>57</versionCode>
+    <versionName>1.1.13</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 	<infos> 
-		<info>#V1.1.12</info>
+		<info>#V1.1.13</info>
 		<info>1.增加提测稳定性</info>
 		<info>2.完成增加新提测节点功能</info>
 		<info>#V1.1.7</info>
