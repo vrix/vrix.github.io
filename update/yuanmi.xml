@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
     <appName>猿蜜</appName>
-    <versionCode>57</versionCode>
-    <versionName>1.1.13</versionName>
+    <versionCode>58</versionCode>
+    <versionName>1.1.15</versionName>
     <forceUpdate>false</forceUpdate>
     <Url>http://vrix.github.io/update/yuanmi.zip</Url>
 	<infos> 
-		<info>#V1.1.13</info>
+		<info>#V1.1.15</info>
 		<info>1.增加提测稳定性</info>
 		<info>2.完成增加新提测节点功能</info>
+		<info>3.支持一键打TAG功能（qcom only）</info>
 		<info>#V1.1.7</info>
 		<info>1.配置信息该用json</info>
 		<info>2.界面该用列表，支持无限项目数量</info>
